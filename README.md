@@ -6,3 +6,6 @@ No declarations:
 
 ![This is an image](./imgs/img.png)
 
+In VSCode works just fine:
+
+![This is an image](./imgs/img_1.png)
