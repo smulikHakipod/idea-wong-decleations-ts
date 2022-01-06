@@ -1,0 +1,16 @@
+{
+  "name": "testproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@mikro-orm/core": "4.5.10",
+    "aws-sdk": "2.1048.0",
+    "typescript": "4.5.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
